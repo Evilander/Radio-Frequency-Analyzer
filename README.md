@@ -44,8 +44,5 @@ This tool helps Flipper Zero users identify what kinds of devices typically oper
 
 [Application Screenshot]
 
-https://imgur.com/a/9w5JWiu
+[Screenshot 2025-04-11 143100](https://github.com/user-attachments/assets/67af4996-a705-409a-b7bb-bcae22285e85)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
