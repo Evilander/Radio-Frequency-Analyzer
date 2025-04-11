@@ -21,7 +21,7 @@ This tool helps Flipper Zero users identify what kinds of devices typically oper
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/flipper-frequency-analyzer.git
+   git clone https://github.com/Evilander/Radio-Frequency-Analyzer/
    ```
 
 2. Open `index.html` in your web browser
