@@ -44,5 +44,4 @@ This tool helps Flipper Zero users identify what kinds of devices typically oper
 
 [Application Screenshot]
 
-[Screenshot 2025-04-11 143100](https://github.com/user-attachments/assets/67af4996-a705-409a-b7bb-bcae22285e85)
-
+![Screenshot 2025-04-11 143100](https://github.com/user-attachments/assets/ea181046-2fda-4eb1-84b8-0dd88f3e2a5c)
