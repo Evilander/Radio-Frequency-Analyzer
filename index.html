@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flipper Zero SubGHz Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Flipper Zero SubGHz Frequency Analyzer</h1>
+            <p class="subtitle">Identify devices and get usage tips for frequencies detected with your Flipper Zero</p>
+        </header>
+
+        <div class="form-container">
+            <div class="form-group">
+                <label for="frequency">Enter SubGHz Frequency:</label>
+                <div class="input-group">
+                    <input type="text" id="frequency" placeholder="e.g., 433.92MHz">
+                    <button id="analyzeBtn">Analyze</button>
+                </div>
+                <div class="note">Format: 433.92MHz or 433 or 433920000Hz</div>
+            </div>
+        </div>
+        
+        <div id="errorBox" class="error-box"></div>
+        
+        <div id="resultBox" class="result-box">
+            <div class="section">
+                <h2 id="resultTitle">Frequency Information: </h2>
+            </div>
+            
+            <div class="section">
+                <h3>Common Devices:</h3>
+                <p id="deviceInfo"></p>
+            </div>
+            
+            <div class="section">
+                <h3>Flipper Zero Advice:</h3>
+                <p id="adviceInfo"></p>
+            </div>
+        </div>
+        
+        <div class="quickref">
+            <p><strong>Quick Reference - Common SubGHz Frequencies:</strong></p>
+            <ul>
+                <li><span class="freq">315MHz</span> - North American Cars</li>
+                <li><span class="freq">433.92MHz</span> - European Cars</li>
+                <li><span class="freq">868MHz</span> - European Alarms</li>
+                <li><span class="freq">915MHz</span> - ISM Band</li>
+            </ul>
+        </div>
+
+        <footer>
+            <p>Created for Flipper Zero enthusiasts | <a href="https://github.com/yourusername/flipper-frequency-analyzer">GitHub</a></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
