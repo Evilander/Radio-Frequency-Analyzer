@@ -42,7 +42,9 @@ This tool helps Flipper Zero users identify what kinds of devices typically oper
 
 ## Screenshot
 
-![Application Screenshot]<blockquote class="imgur-embed-pub" lang="en" data-id="a/9w5JWiu" data-context="false" ><a href="//imgur.com/a/9w5JWiu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Application Screenshot]
+
+https://imgur.com/a/9w5JWiu
 
 ## License
 
